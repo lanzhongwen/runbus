@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/ipc-test.dir/ipc_test.cc.o  -o ipc-test -rdynamic -lpthread 

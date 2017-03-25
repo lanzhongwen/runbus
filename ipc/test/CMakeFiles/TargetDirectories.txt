@@ -1,3 +1,0 @@
-/home/runbus/src/runbus/ipc/test/CMakeFiles/edit_cache.dir
-/home/runbus/src/runbus/ipc/test/CMakeFiles/rebuild_cache.dir
-/home/runbus/src/runbus/ipc/test/CMakeFiles/ipc-test.dir
